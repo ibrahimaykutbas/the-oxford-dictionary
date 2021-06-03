@@ -1,10 +1,10 @@
-# Basket Application
+# The Oxford Dictionary Application
 Classification of the The Oxford Dictionary's 3000-word list by letter.
 There are two practice parts. Turkish - English and English Turkish.
 The logic of the exercises, for example, in the Turkish exercise there are only English words at first. If the word is pressed, its Turkish equivalent is opened.
 ## Getting Started
 Clone this repository on your local machine.<br/><br/>
-`git clone https://github.com/ibrahimaykutbas/basket-application`<br/><br/>
+`git clone https://github.com/ibrahimaykutbas/the-oxford-dictionary`<br/><br/>
 `cd my-app`<br/><br/>
 Run the following commands into the project folder to install project dependencies.<br/><br/>
 `npm init`<br/><br/>
