@@ -76,5 +76,6 @@ Yes
 ```
 
 ## Daha Fazla Bilgi İçin
-Daha fazlasını şuradan öğrenebilirsiniz: [Create React App documentation](https://create-react-app.dev/docs/getting-started/).<br/><br/>
-React'i öğrenmek için şuraya göz atın: [React documentation](https://reactjs.org/).
+Daha fazlasını şuradan öğrenebilirsiniz: [Create React App documentation](https://create-react-app.dev/docs/getting-started/)
+
+React'i öğrenmek için şuraya göz atın: [React documentation](https://reactjs.org/)
